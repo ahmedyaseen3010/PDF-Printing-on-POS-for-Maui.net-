@@ -1,6 +1,6 @@
 <H1>📄 PDF Printing on POS for .NET MAUI</H1>
 <h2>Overview</h2>
-.NET MAUI currently lacks a built-in API for printing documents like PDFs or HTML directly. This repository presents a solution for handling PDF printing on POS devices using .NET MAUI.
+.NET MAUI currently lacks a built-in API for printing documents like PDFs or HTML directly. This repository presents a work around solution for handling PDF printing on POS devices using .NET MAUI.
 <h2>🛠️ Solution</h2>
 Instead of printing documents directly through your app, you can install a printing service on your POS device. In this example, the RawBT Print Service is utilized, which can be downloaded from the POS device's app store.
 
